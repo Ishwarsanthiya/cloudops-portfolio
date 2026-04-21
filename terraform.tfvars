@@ -1,0 +1,1 @@
+alert_email = "awscloud26@outlook.com"
